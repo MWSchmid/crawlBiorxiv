@@ -16,7 +16,7 @@ I think that the top 50 entries of the table are enough to disprove the statemen
 | PLOS Genetics                          | 73        |
 | PNAS                                   | 70        |
 | PLOS Computational Biology             | 69        |
-| G3: Genes|Genomes|Genetics             | 66        |
+| G3: Genes\|Genomes\|Genetics             | 66        |
 | Nucleic Acids Research                 | 55        |
 | Genome Biology                         | 54        |
 | Nature Communications                  | 48        |
