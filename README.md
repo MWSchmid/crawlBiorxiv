@@ -6,7 +6,7 @@ I was once asked where the articles on biorxiv are published later on. Well - I 
 I think that the top 50 entries of the table are enough to disprove the statement that "once your manuscript is on biorxiv, no good journal wants it anymore":
 
 | journal                                | frequency |
-|----------------------------------------|----------:|
+|:---------------------------------------|----------:|
 | unpublished                            | 4918      |
 | PLOS ONE                               | 157       |
 | Bioinformatics                         | 120       |
